@@ -1,3 +1,4 @@
+name: revl
 build:
   settings:
     board_root: .
